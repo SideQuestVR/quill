@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="$1"
+VERSION="1.3.7"
 
 if [ -z "$VERSION" ]; then
   echo "Version required."
